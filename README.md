@@ -40,9 +40,3 @@ A tool that analyzes GitHub repositories to identify JigSawStack integration opp
 - Enhances onboarding experience
 - Increases engagement with JigSawStack features
 - Provides insights on API usage patterns
-
-## Next Steps
-
-- Implement export functionality for reports
-- Enhance analysis accuracy
-- Develop user interface for easier interaction
