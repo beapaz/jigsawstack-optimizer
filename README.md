@@ -28,7 +28,7 @@ A tool that analyzes GitHub repositories to identify JigSawStack integration opp
 4. Calls are compared with JigSawStack offerings
 5. Optimization report is generated
 
-## Technical Stack
+## Tech Stack
 
 - Python for cross-platform compatibility
 - AST parsing for code analysis
