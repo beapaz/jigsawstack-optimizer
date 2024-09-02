@@ -1,10 +1,10 @@
 # JigSawStack Integration Optimizer
 
-A tool that analyzes GitHub repositories to identify JigSawStack integration opportunities, streamlining API management for developers.
+A tool that analyzes a GitHub repository to identify JigSawStack integration opportunities, streamlining API management for developers.
 
 ## Key Features
 
-- Scans GitHub repos for API calls
+- Scans a GitHub repo for API calls
 - Identifies JigSawStack integration points
 - Generates optimization reports
 - Provides JigSawStack-specific recommendations
