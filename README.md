@@ -1,20 +1,20 @@
-# JigSawStack Integration Optimizer
+# JigsawStack Integration Optimizer
 
-A tool that analyzes a GitHub repository to identify JigSawStack integration opportunities, streamlining API management for developers.
+A tool that analyzes a GitHub repository to identify JigsawStack integration opportunities, streamlining API management for developers.
 
 ## Key Features
 
 - Scans a GitHub repo for API calls
-- Identifies JigSawStack integration points
+- Identifies JigsawStack integration points
 - Generates optimization reports
-- Provides JigSawStack-specific recommendations
+- Provides JigsawStack-specific recommendations
 - Links to relevant documentation
 
 ## Quick Start
 
-1. Sign up for a free API key at [JigSawStack](https://www.jigsawstack.com)
+1. Sign up for a free API key at [JigsawStack](https://www.jigsawstack.com)
 2. Clone the repository and install dependencies
-3. Set your JigSawStack API key:
+3. Set your JigsawStack API key:
     export JIGSAWSTACK_API_KEY=your_api_key_here
 4. Run the script:
     python3 src/main.py
@@ -25,7 +25,7 @@ A tool that analyzes a GitHub repository to identify JigSawStack integration opp
 1. User inputs a GitHub repo URL
 2. Tool clones the repo
 3. Code is analyzed for API calls
-4. Calls are compared with JigSawStack offerings
+4. Calls are compared with JigsawStack offerings
 5. Optimization report is generated
 
 ## Tech Stack
@@ -38,5 +38,5 @@ A tool that analyzes a GitHub repository to identify JigSawStack integration opp
 
 - Accelerates user adoption
 - Enhances onboarding experience
-- Increases engagement with JigSawStack features
+- Increases engagement with JigsawStack features
 - Provides insights on API usage patterns
